@@ -20,7 +20,7 @@ int main()
    int action;
    do{
       printf("\tcounty Library\n");
-      printf("welcome Andrew.\n");
+      printf("welcome teafah.\n");
       printf("What would you like to do?n");
       printf("1.View users.\n");
       printf("2.Add new user.\n");
